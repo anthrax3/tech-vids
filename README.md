@@ -10,7 +10,7 @@ Scala Programming
 * [Scala in 2018: SF Scala panel with Rod Johnson](https://www.youtube.com/watch?v=hZlxBRnxzDc) - November 2013
 * [What's New in Scala 2.10](http://www.youtube.com/watch?v=EULAeVejzZ8) - Martin Odersky
 * [Simplicity in Scala Design](https://www.youtube.com/watch?v=Pqh_QFFzIlI) - Bill Venners, 11 Mar 2013
-* [Pacific Northwest Scala 2013 Twitter: Taking Hadoop Realtime with Summingbird](http://www.youtube.com/watch?v=iuvauJZaMqA) - 28 Oct 2013, S. Ritchie
+* [Pacific Northwest Scala 2013 Twitter: Taking Hadoop Realtime with Summingbird](http://www.youtube.com/watch?v=iuvauJZaMqA) - 28 Oct 2013
 * [Deleting Code at Nokia](http://www.infoq.com/presentations/java-nokia-case-study) - 19 June 2013
 * [ScalaDays 2013 - Parleys.com](http://www.parleys.com/channel/51ae1022e4b01033a7e4b6ca/presentations)
 * [Guerilla Scala Programming at eBay](http://www.youtube.com/watch?v=TovrHRZQFIY) - 18 June 2013, Alex Cozzi
@@ -27,7 +27,7 @@ Scala Programming
 * [Functional Design Patterns](http://www.infoq.com/presentations/Clojure-Design-Patterns)
 * [Philip Wadler on Functional Programming](http://www.infoq.com/interviews/wadler-functional-programming)
 * [SBT Introduction & Cookbook for Scala](https://www.youtube.com/watch?v=V2rl62CZPVc)
-* [O'Reilly OSCON Java 2011: Martin Odersky, "Working Hard to Keep It Simple"](http://www.youtube.com/watch?v=3jg1AheF4n0) - Martin Odersky, 25 July 2011
+* [O'Reilly OSCON Java 2011: Martin Odersky, "Working Hard to Keep It Simple"](http://www.youtube.com/watch?v=3jg1AheF4n0) - Martin Odersky, 2011
 * [Scala: Simplifying Development at guardian.co.uk](http://www.infoq.com/presentations/Scala-Guardian) - Graham Tackley, 21 Aug 2012
 * [How We (Mostly) Moved From Java To Scala](http://www.infoq.com/presentations/How-We-Mostly-Moved-from-Java-to-Scala) - Graham Tackley (Web Platform Team Lead), 27 Mar 2012
 * [Dick Wall on Scala, DI with SubCut, Scala Compiler Plugins, Java's Future](http://www.infoq.com/interviews/wall-scala?utm_source=infoq)
@@ -72,9 +72,10 @@ Play Framework
 Scala Slick
 -----------
 
-* [http://parleys.com/play/51c2e20de4b0d38b54f46243/chapter11/about]() - 24 June 2013, Stefan 
-* [Other Slick Presentations](http://slick.typesafe.com/docs/#20130612_slick_vs_orm_scaladays_2013)
+* [About Slick vs. ORM](http://parleys.com/play/51c2e20de4b0d38b54f46243/chapter11/about) - June 2013
 * [Scala's Slick: A Library For Functional Database Access](http://vimeo.com/66937268) - May 2013 approx
+* [Other Slick Presentations](http://slick.typesafe.com/docs/#20130612_slick_vs_orm_scaladays_2013)
+
 
 
 Clojure
@@ -95,7 +96,7 @@ ElasticSearch, Kibana and LogStash
 * [bbuzz: Clinton Gormley "Getting down and dirty with Elasticsearch"](http://www.youtube.com/watch?v=52G5ZzE0XpY) - 19 June 2013
 * [Shay Banon - ElasticSearch: Big Data, Search, and Analytics](http://www.youtube.com/watch?v=lpZ6ZajygDY) - 9 Jan 2013
 * [ElasticSearch in Production: lessons learned](http://www.youtube.com/watch?v=bMi2g3uEAxU) - 30 Jan 2013
-* [More Logstash Awesome - Jordan Sissel - PuppetConf 2013](http://www.youtube.com/watch?v=fwMnb4-t8vo) - 3 Sep 2013, Jordan Sissel (and Kibana demo)
+* [More Logstash Awesome - Jordan Sissel - PuppetConf 2013](http://www.youtube.com/watch?v=fwMnb4-t8vo) - Sep 2013, Jordan Sissel (Kibana demo)
 
 
 Cassandra
@@ -124,7 +125,7 @@ Cassandra, How To
 Moving to Cassandra
 
 * [NYC* 2013 - "A Big Data Quadfecta: Cassandra, Storm, Elastic Search and Kafka"](http://www.youtube.com/watch?v=jBauMkzSgRQ) - 8 Apr 2013
-* [C* Summit 2013: Hindsight is 20/20. MySQL to Cassandra](http://www.youtube.com/watch?v=8tjPbQrr1ME) - 27 June 2013, Michael Kjellman -Software Engineer at Barracuda
+* [C* Summit 2013: Hindsight is 20/20. MySQL to Cassandra](http://www.youtube.com/watch?v=8tjPbQrr1ME) - 27 June 2013, Michael Kjellman
 * [Cassandra Community Webinar | MySQL to Cassandra - What I Wish I'd Known](http://www.youtube.com/watch?v=gW4jEOKRB04)
 * [Cassandra Community Webinar | From MongoDB To Cassandra Architectural Lessons](http://www.youtube.com/watch?v=eVBcsMyRQ-s) - 25 Nov 2013, Shift
 * [Cassandra Community Webinar | Shift: Real World Migration from MongoDB to Cassandra](http://www.youtube.com/watch?v=9XHigNKJJhI) - 6 Sep 2013
@@ -134,7 +135,7 @@ Moving to Cassandra
 Cassandra Presentations
 
 * [Running Netflix on Cassandra in the Cloud](http://www.youtube.com/watch?v=97VBdgIgcCU) - 2013?, Adrian Cockcroft
-* [C* Summit 2013: How Not to Use Cassandra](http://www.youtube.com/watch?v=0u-EKJBPrj8) - 26 June 2013, Axel Liljencrantz, Backend Developer at Spotify
+* [C* Summit 2013: How Not to Use Cassandra](http://www.youtube.com/watch?v=0u-EKJBPrj8) - 26 June 2013, Axel Liljencrantz, Spotify Developer
 * [C* Summit 2013: Practice Makes Perfect: Extreme Cassandra Optimisation](http://www.youtube.com/watch?v=_IL1u1IIRhc)
 * [Cassandra Community Webinar | Cassandra Architecture, Development and Operations](http://www.youtube.com/watch?v=iJfOWvFvSAg) - 25 Oct 2013
 * [Real-time Analytics using Cassandra, Spark and Shark at Ooyala by Evan Chan](http://www.youtube.com/watch?v=PjZp7K5z7ew&list=PLqcm6qE9lgKKQozWDtsekUbdpietCCgi0) - 22 Jan 2014
@@ -206,7 +207,7 @@ Scalability and High Performance
 * [It's all a numbers game -- the dirty little secret of scalable systems](http://www.youtube.com/watch?v=1KRYH75wgy4) - Martin Thompson, 20 Mar 2013
 * [Martin Thompson Discusses Reactive System Design](www.infoq.com/interviews/reactive-system-design-martin-thompson) - 2 Dec 2013, Martin Thompson
 * [Understanding the Disruptor, a Beginner's Guide to Hardcore Concurrency -Trisha Gee & Mike Barker](http://www.youtube.com/watch?v=DCdGlxBbKU4)
-* [Martin Thompson on Low Latency Coding and Mechanical Sympathy](www.infoq.com/interviews/martin-thompson-Low-Latency) - 7 June 2013, Interview with Martin Thompson
+* [Martin Thompson on Low Latency Coding and Mechanical Sympathy](www.infoq.com/interviews/martin-thompson-Low-Latency) - 7 June 2013, Martin Thompson
 * [LMAX - How to Do 100K TPS at Less than 1ms Latency](http://www.infoq.com/presentations/LMAX) - 16 Dec 2010
 * [Trisha Gee from LMAX Discusses Concurrent Java Programming, Agile, and Diversity in IT](http://www.infoq.com/interviews/trisha-gee-disruptor) - 18 May 2012
 * [Cliff Click on In-Memory Processing, 0xdata H20, Efficient Low Latency Java and GCs](www.infoq.com/interviews/click-0xdata) - 10 Jan 2014, Cliff Click
