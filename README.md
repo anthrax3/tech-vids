@@ -2,6 +2,40 @@ Technology Presentations, Interviews and Webinars
 =================================================
 
 
+Scalability and High Performance
+--------------------------------
+
+* [Breaking the 1000ms Time to Glass Mobile Barrier](https://www.youtube.com/watch?v=Il4swGfTOSM) - 26 Mar 2013
+* [React 2014 : Martin Thompson - Responding in a Timely Manner](https://www.youtube.com/watch?v=4dfk3ucthN8) - 8 April 2014, Martin Thompson
+* [Java Marshalling: A Performance Approach](http://www.infoq.com/presentations/java-marshalling-performance) - 5 Feb 2014, Todd Montgomery
+* [Top 10 - Performance Folklore](http://www.infoq.com/presentations/top-10-performance-myths) - 29 Jan 2014, Martin Thompson
+* [Practicing at the Cutting Edge: Learning and Unlearning about Java Performance](http://www.infoq.com/presentations/java-evolution-performance) - 21 Jan 2014, Martin Thompson
+* [It's all a numbers game -- the dirty little secret of scalable systems](http://www.youtube.com/watch?v=1KRYH75wgy4) - Martin Thompson, 20 Mar 2013
+* [Martin Thompson Discusses Reactive System Design](www.infoq.com/interviews/reactive-system-design-martin-thompson) - 2 Dec 2013, Martin Thompson
+* [Understanding the Disruptor, a Beginner's Guide to Hardcore Concurrency -Trisha Gee & Mike Barker](http://www.youtube.com/watch?v=DCdGlxBbKU4)
+* [Martin Thompson on Low Latency Coding and Mechanical Sympathy](www.infoq.com/interviews/martin-thompson-Low-Latency) - 7 June 2013, Martin Thompson
+* [LMAX - How to Do 100K TPS at Less than 1ms Latency](http://www.infoq.com/presentations/LMAX) - 16 Dec 2010
+* [Trisha Gee from LMAX Discusses Concurrent Java Programming, Agile, and Diversity in IT](http://www.infoq.com/interviews/trisha-gee-disruptor) - 18 May 2012
+* [Cliff Click on In-Memory Processing, 0xdata H20, Efficient Low Latency Java and GCs](www.infoq.com/interviews/click-0xdata) - 10 Jan 2014, Cliff Click
+* [Runaway Complexity in Big Data, and a Plan to Stop It](http://www.infoq.com/presentations/Complexity-Big-Data) - 25 Oct 2012, Nathan Marz
+* [Everything I Ever Learned about JVM Performance Tuning @twitter](http://www.infoq.com/presentations/JVM-Performance-Tuning-twitter-QCon-London-2012)
+* [Visualising Java Garbage Collection](http://www.infoq.com/presentations/Visualizing-Java-GC) - Ben Evans, 19 April 2013
+* [Benchmarking JVM Concurrency Options for Java, Scala and Akka](http://www.infoq.com/articles/benchmarking-jvm) - Michael Slinn, 26 April 2012
+* [Anomaly Detection, Fault Tolerance and Anticipation Patterns](http://www.infoq.com/presentations/Anomaly-Detection-Fault-Tolerance-and-Anticipation-Patterns)
+* [Making the Web Faster at Google and Beyond](http://www.infoq.com/presentations/Web-Fast-Google)
+* [Serkan Piantino on Scaling Facebook](http://www.infoq.com/interviews/piantino-facebook) - 20 Aug 2012
+* [Scaling Pinterest](http://www.infoq.com/presentations/Pinterest) - 26 Mar 2013
+* [GTAC 2013: Testing Systems at Scale @Twitter](https://www.youtube.com/watch?v=99RABfKNfcY) - 29 Apr 2013, James Walrdop
+
+
+Continuous Delivery and Testing
+-------------------------------
+
+* [Jez Humble on Continuous Delivery - Berlin (Full)](http://www.youtube.com/watch?v=skLJuksCRTw) - 26 Oct 2012
+* [Continuous Delivery at 7digital - An Experience Report](http://www.infoq.com/presentations/continuous-delivery-7digital) - May 25, 2014, Chris O’Dell
+* [Is TDD Dead?](https://www.youtube.com/watch?v=z9quxZsLcfo) - 9 May 2014
+
+
 Scala Programming
 -----------------
 
@@ -188,40 +222,6 @@ API
 * [Evolution of the Netflix API](http://www.infoq.com/presentations/netflix-api-evolution) - 11 Dec 2013, Ben Christensen
 
 
-Continuous Delivery and Testing
--------------------------------
-
-* [Jez Humble on Continuous Delivery - Berlin (Full)](http://www.youtube.com/watch?v=skLJuksCRTw) - 26 Oct 2012
-* [Continuous Delivery at 7digital - An Experience Report](http://www.infoq.com/presentations/continuous-delivery-7digital) - May 25, 2014, Chris O’Dell
-* [Is TDD Dead?](https://www.youtube.com/watch?v=z9quxZsLcfo)
-
-
-Scalability and High Performance
---------------------------------
-
-* [Breaking the 1000ms Time to Glass Mobile Barrier](https://www.youtube.com/watch?v=Il4swGfTOSM) - 26 Mar 2013
-* [React 2014 : Martin Thompson - Responding in a Timely Manner](https://www.youtube.com/watch?v=4dfk3ucthN8) - 8 April 2014, Martin Thompson
-* [Java Marshalling: A Performance Approach](http://www.infoq.com/presentations/java-marshalling-performance) - 5 Feb 2014, Todd Montgomery
-* [Top 10 - Performance Folklore](http://www.infoq.com/presentations/top-10-performance-myths) - 29 Jan 2014, Martin Thompson
-* [Practicing at the Cutting Edge: Learning and Unlearning about Java Performance](http://www.infoq.com/presentations/java-evolution-performance) - 21 Jan 2014, Martin Thompson
-* [It's all a numbers game -- the dirty little secret of scalable systems](http://www.youtube.com/watch?v=1KRYH75wgy4) - Martin Thompson, 20 Mar 2013
-* [Martin Thompson Discusses Reactive System Design](www.infoq.com/interviews/reactive-system-design-martin-thompson) - 2 Dec 2013, Martin Thompson
-* [Understanding the Disruptor, a Beginner's Guide to Hardcore Concurrency -Trisha Gee & Mike Barker](http://www.youtube.com/watch?v=DCdGlxBbKU4)
-* [Martin Thompson on Low Latency Coding and Mechanical Sympathy](www.infoq.com/interviews/martin-thompson-Low-Latency) - 7 June 2013, Martin Thompson
-* [LMAX - How to Do 100K TPS at Less than 1ms Latency](http://www.infoq.com/presentations/LMAX) - 16 Dec 2010
-* [Trisha Gee from LMAX Discusses Concurrent Java Programming, Agile, and Diversity in IT](http://www.infoq.com/interviews/trisha-gee-disruptor) - 18 May 2012
-* [Cliff Click on In-Memory Processing, 0xdata H20, Efficient Low Latency Java and GCs](www.infoq.com/interviews/click-0xdata) - 10 Jan 2014, Cliff Click
-* [Runaway Complexity in Big Data, and a Plan to Stop It](http://www.infoq.com/presentations/Complexity-Big-Data) - 25 Oct 2012, Nathan Marz
-* [Everything I Ever Learned about JVM Performance Tuning @twitter](http://www.infoq.com/presentations/JVM-Performance-Tuning-twitter-QCon-London-2012)
-* [Visualising Java Garbage Collection](http://www.infoq.com/presentations/Visualizing-Java-GC) - Ben Evans, 19 April 2013
-* [Benchmarking JVM Concurrency Options for Java, Scala and Akka](http://www.infoq.com/articles/benchmarking-jvm) - Michael Slinn, 26 April 2012
-* [Anomaly Detection, Fault Tolerance and Anticipation Patterns](http://www.infoq.com/presentations/Anomaly-Detection-Fault-Tolerance-and-Anticipation-Patterns)
-* [Making the Web Faster at Google and Beyond](http://www.infoq.com/presentations/Web-Fast-Google)
-* [Serkan Piantino on Scaling Facebook](http://www.infoq.com/interviews/piantino-facebook) - 20 Aug 2012
-* [Scaling Pinterest](http://www.infoq.com/presentations/Pinterest) - 26 Mar 2013
-* [GTAC 2013: Testing Systems at Scale @Twitter](https://www.youtube.com/watch?v=99RABfKNfcY) - 29 Apr 2013, James Walrdop
-
-
 Web Apps and JavaScript
 -----------------------
 
@@ -281,7 +281,6 @@ Miscellaneous
 * [DevOps to NoOps: 10 Cloud Services You Should Be Using](http://www.infoq.com/presentations/DevOps-to-NoOps-10-Cloud-Services-You-Should-Be-Using)
 * [Have Your Cake and Eat It Too: Meta-Programming Java](http://www.infoq.com/presentations/Have-Your-Cake-and-Eat-It-Too-Meta-Programming-Java)
 * [Sonar Quality Dashboard 3.0: New Commercial Editions And The Developer's Cockpit](http://www.infoq.com/news/2012/05/sonar-quality-3)
-* [Apache Tika 1.0 Allows Easy Text Extraction for Java](http://www.infoq.com/news/2011/12/tika-10)
 * [To Java SE 8, and Beyond!](http://www.infoq.com/presentations/To-Java-SE-8-and-Beyond)
 * [GTAC 2011: Opening Keynote Address - Test is Dead](http://www.youtube.com/watch?v=X1jWe5rOu3g)
 * [Google Apps' Identity Crisis](http://www.infoq.com/presentations/Google-Apps-Identity)
@@ -289,4 +288,5 @@ Miscellaneous
 * [Livin' on the edge: Netflix edge architecture](http://www.youtube.com/watch?v=PEWIxqcdrXE) - 18 June 2013, Adrian Cole
 * [Large Scala Crawling With Apache Nutch](http://www.youtube.com/watch?v=pzMpwW4ppRM) - 2013
 * [Apache Lucene : Then and Now](http://www.youtube.com/watch?v=5444z-L2V2A]) - Feb 2014, Doug Cutting
+* [Apache Tika 1.0 Allows Easy Text Extraction for Java](http://www.infoq.com/news/2011/12/tika-10)
 * [Hazelcast: Scalable Data Structures](http://www.youtube.com/watch?v=5bX7EhMWFs8) - 30 Jan 2013
