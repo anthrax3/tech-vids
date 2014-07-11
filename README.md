@@ -2,8 +2,8 @@ Technology Presentations, Interviews and Webinars
 =================================================
 
 
-Scalability and High Performance
---------------------------------
+High Performance, Low Latency, Scalability
+------------------------------------------
 
 * [Breaking the 1000ms Time to Glass Mobile Barrier](https://www.youtube.com/watch?v=Il4swGfTOSM) - 26 Mar 2013
 * [React 2014 : Martin Thompson - Responding in a Timely Manner](https://www.youtube.com/watch?v=4dfk3ucthN8) - 8 April 2014, Martin Thompson
@@ -16,7 +16,8 @@ Scalability and High Performance
 * [Martin Thompson on Low Latency Coding and Mechanical Sympathy](www.infoq.com/interviews/martin-thompson-Low-Latency) - 7 June 2013, Martin Thompson
 * [LMAX - How to Do 100K TPS at Less than 1ms Latency](http://www.infoq.com/presentations/LMAX) - 16 Dec 2010
 * [Trisha Gee from LMAX Discusses Concurrent Java Programming, Agile, and Diversity in IT](http://www.infoq.com/interviews/trisha-gee-disruptor) - 18 May 2012
-* [Cliff Click on In-Memory Processing, 0xdata H20, Efficient Low Latency Java and GCs](www.infoq.com/interviews/click-0xdata) - 10 Jan 2014, Cliff Click
+* [Cliff Click on In-Memory Processing, 0xdata H20, Efficient Low Latency Java and GCs](http://www.infoq.com/interviews/click-0xdata) - 10 Jan 2014, Cliff Click
+* [Nathan Marz on Storm, Immutability in the Lambda Architecture, Clojure](http://www.infoq.com/interviews/marz-lambda-architecture) - 6 April 2014
 * [Runaway Complexity in Big Data, and a Plan to Stop It](http://www.infoq.com/presentations/Complexity-Big-Data) - 25 Oct 2012, Nathan Marz
 * [Everything I Ever Learned about JVM Performance Tuning @twitter](http://www.infoq.com/presentations/JVM-Performance-Tuning-twitter-QCon-London-2012)
 * [Visualising Java Garbage Collection](http://www.infoq.com/presentations/Visualizing-Java-GC) - Ben Evans, 19 April 2013
@@ -46,6 +47,7 @@ Scala Programming
 * [Simplicity in Scala Design](https://www.youtube.com/watch?v=Pqh_QFFzIlI) - Bill Venners, 11 Mar 2013
 * [Pacific Northwest Scala 2013 Twitter: Taking Hadoop Realtime with Summingbird](http://www.youtube.com/watch?v=iuvauJZaMqA) - 28 Oct 2013
 * [Deleting Code at Nokia](http://www.infoq.com/presentations/java-nokia-case-study) - 19 June 2013
+* [ScalaDays 2014 - Parleys.com](http://www.parleys.com/channel/53a7d269e4b0543940d9e535/presentations)
 * [ScalaDays 2013 - Parleys.com](http://www.parleys.com/channel/51ae1022e4b01033a7e4b6ca/presentations)
 * [Guerilla Scala Programming at eBay](http://www.youtube.com/watch?v=TovrHRZQFIY) - 18 June 2013, Alex Cozzi
 * [North East Scala Symposium 2012 (nescala)](http://nescala.org/2012)
@@ -53,6 +55,7 @@ Scala Programming
 * [What’s New in Scala 2.10 (Marakana)](http://marakana.com/s/post/1461/what_is_new_in_scala_2_10_adriaan_moors_video) - Adriaan Moors, 9 May 2013
 * [Rúnar Bjarnason on Scalaz, Lenses, Functional Programming and Scala](http://www.infoq.com/interviews/bjarnason-scalaz) - 18 July 2012
 * [Scala Monads: Declutter Your Code With Monadic Design](http://www.youtube.com/watch?feature=player_embedded&v=Mw_Jnn_Y5iA) - Dan Rosen, MarakanaTechTV, 9 Feb 2012
+* [Contravariance is the Dual of Covariance](http://www.infoq.com/presentations/covariance-contravariance-joy-of-coding-2014) - Eric Meijer, 30 April 2014
 * [JVM Evolution for Scala @ Oracle Santa Clara](https://www.youtube.com/watch?v=o2WtIroR7Ag) - 7 Mar 2013, Paul Philips
 * [JVMLS 2013: Scala War Stories](http://medianetwork.oracle.com/video/player/2623635250001) - 26 Aug 2013, Paul Philips
 * [FOSDEM 2009 Scala - A Scalable Language](http://www.youtube.com/watch?v=zqFryHC018k)
