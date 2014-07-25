@@ -182,6 +182,7 @@ Cassandra Presentations
 MongoDB
 -------
 
+* [Transactions without Transactions](http://www.infoq.com/presentations/Transactions-without-Transactions) - 9 Feb 2012, Richard Kreuter and Kyle Banker
 * [MongoDB Large-scale Data Centric Architectures](http://www.infoq.com/presentations/MongoDB-Design) - Kenny Gorman, 9 Apr 2013
 * [Why I Chose MongoDB for guardian.co.uk](http://www.infoq.com/presentations/Why-I-Chose-MongoDB-for-Guardian) - 11 Aug 2011, Mat Wall (Lead Software Architect)
 * [Scaling with MongoDB](http://www.infoq.com/presentations/Scaling-with-MongoDB)
