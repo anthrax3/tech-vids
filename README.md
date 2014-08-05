@@ -5,6 +5,7 @@ Technology Presentations, Interviews and Webinars
 High Performance, Low Latency, Scalability
 ------------------------------------------
 
+* [Priming Java for Speed at Market Open](http://www.infoq.com/presentations/jvm-dynamic-optimizations) - 3 August 2014, Gil Tene
 * [Breaking the 1000ms Time to Glass Mobile Barrier](https://www.youtube.com/watch?v=Il4swGfTOSM) - 26 Mar 2013
 * [React 2014 : Martin Thompson - Responding in a Timely Manner](https://www.youtube.com/watch?v=4dfk3ucthN8) - 8 April 2014, Martin Thompson
 * [Java Marshalling: A Performance Approach](http://www.infoq.com/presentations/java-marshalling-performance) - 5 Feb 2014, Todd Montgomery
