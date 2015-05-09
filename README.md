@@ -227,6 +227,13 @@ API
 * [Evolution of the Netflix API](http://www.infoq.com/presentations/netflix-api-evolution) - 11 Dec 2013, Ben Christensen
 
 
+Mobile and Responsive Design
+----------------------------
+
+* [Conversions@Google 2014, Luke Wroblewski - Part 1] (https://www.youtube.com/watch?v=Y-FMTPsgy_Y)
+* [Conversions@Google 2014, Luke Wroblewski - Part 2 (Web Forms)] (https://www.youtube.com/watch?v=nmKMz3Fg76M)
+
+
 Web Apps and JavaScript
 -----------------------
 
