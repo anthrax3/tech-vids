@@ -38,6 +38,12 @@ Continuous Delivery and Testing
 * [Is TDD Dead?](https://www.youtube.com/watch?v=z9quxZsLcfo) - 9 May 2014
 
 
+Security
+--------
+
+*[Creating Self Defending Applications to Repel Attackers](https://youtu.be/YOtTPr8r0tI) - 16 Mar 2014, Michael Coates
+
+
 Scala Programming
 -----------------
 
