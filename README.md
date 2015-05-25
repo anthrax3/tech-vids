@@ -41,7 +41,7 @@ Continuous Delivery and Testing
 Security
 --------
 
-*[Creating Self Defending Applications to Repel Attackers](https://youtu.be/YOtTPr8r0tI) - 16 Mar 2014, Michael Coates
+* [Creating Self Defending Applications to Repel Attackers](https://youtu.be/YOtTPr8r0tI) - 16 Mar 2014, Michael Coates
 
 
 Scala Programming
@@ -224,6 +224,7 @@ Go Language
 API
 ---
 
+* [REST+JSON API Design - Best Practices for Developers](https://youtu.be/hdSrT4yjS1g) - 2 Oct 2012, Les Hazlewood, Stormpath
 * [API Design Best Practices (Apiary)](http://www.infoq.com/presentations/API-Design-Best-Practices) - 21 June 2013
 * [How To Design A Good API and Why it Matters](http://www.youtube.com/watch?v=aAb7hSCtvGw) - Neil Mansilla, Client API evangelist
 * [Generating Developer Interest and Activity - Mashery](http://vimeo.com/56597589) - Jan 2013
