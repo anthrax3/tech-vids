@@ -246,7 +246,8 @@ Web Apps and JavaScript
 
 * [Douglas Crockford: Monads and Gonads (YUIConf Evening Keynote)](http://www.youtube.com/watch?v=dkZFtimgAcM)
 * [Javascript Performance with Stoyan Stefanov](http://www.infoq.com/interviews/javascript-performance-stoyan-stefanov)
-* [The State of JavaScript](http://www.infoq.com/presentations/State-JavaScript)
+* [ES6 and ES7 the future of Javascript](http://youtu.be/6AytbSdWBKg) - Brendan Eich, 3 Feb 2015
+* [The State of JavaScript](http://www.infoq.com/presentations/State-JavaScript) - Brendan Eich, 19 Oct 2012
 * [Seamless iFrames: The Future, Today! - Marakana](https://marakana.com/s/post/1301/seamless_iframes_future_disqus_video) - Ben Vinegar
 * [Faruk Ates on Modernizr, Shims and Polyfills](http://www.infoq.com/interviews/faruk-ates-modernizr)
 * [Rise of the Web App](http://www.infoq.com/presentations/Web-App-Platform)
