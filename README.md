@@ -257,6 +257,7 @@ Web Apps and JavaScript
 AngularJS
 ---------
 
+* [AngularJS 2.0 features and beyond](http://youtu.be/odY7fUjI1ZU) - Rob Eisenberg, 19 June 2015
 * [AngularJS Fundamentals In 60-ish Minutes](http://www.youtube.com/watch?v=i9MHigUZKEM) - 12 April 2013, Dan Wahlin
 * [AngularJS](http://www.youtube.com/angularjs)
 * [AngularJS 1.2 and Beyond](http://www.youtube.com/watch?v=W13qDdJDHp8) - 11 June 2013
