@@ -291,6 +291,7 @@ Computing History
 Miscellaneous
 -------------
 
+* [The Worst Programming Language Ever](http://www.infoq.com/presentations/worst-programming-language) - 2 July 2015, Mark Rendle, InfoQ
 * [Technical Debt, Process and Culture](http://www.infoq.com/presentations/Technical-Debt-Process-Culture)
 * [Kafka and Storm Stream Processing Presentation](http://www.youtube.com/watch?v=0b7Ln_KYbjQ) - 9 May 2013
 * [Dumb and Dumber: How smart is your monitoring data](http://www.infoq.com/presentations/dumb-and-dumber) - 6 June 2013, Jim Hirschauer, from AppDynamics
