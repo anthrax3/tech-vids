@@ -234,9 +234,10 @@ API
 * [Evolution of the Netflix API](http://www.infoq.com/presentations/netflix-api-evolution) - 11 Dec 2013, Ben Christensen
 
 
-Mobile and Responsive Design
-----------------------------
+Forms Design,  Responsive Design and Mobile
+-------------------------------------------
 
+* [Burn your select tags - EpicFEL 2014] (https://www.youtube.com/watch?v=CUkMCQR4TpY) - Alice Bartlett, 24 Oct 2014
 * [Conversions@Google 2014, Luke Wroblewski - Part 1] (https://www.youtube.com/watch?v=Y-FMTPsgy_Y)
 * [Conversions@Google 2014, Luke Wroblewski - Part 2 (Web Forms)] (https://www.youtube.com/watch?v=nmKMz3Fg76M)
 
